@@ -24,6 +24,8 @@ namespace ElephantCarpaccio
                 app.PrintTotal();
             }
 
+            // i just made this change.
+
             // TODO:  do this thing
 
             Console.ReadKey();
